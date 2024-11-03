@@ -32,7 +32,4 @@ The decoder model predicts the output sequence using one LSTM layer and an atten
 - NumPy
 - Pandas
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/weather-tweet-analysis.git
+
